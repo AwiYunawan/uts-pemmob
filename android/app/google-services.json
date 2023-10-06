@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534697529985",
+    "project_id": "utsdavid-7e5b6",
+    "storage_bucket": "utsdavid-7e5b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534697529985:android:a4dc28364d25231ea3b380",
+        "android_client_info": {
+          "package_name": "com.example.utsdavid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-S6JQEQsRFxSwRMOn_kz7Y8_2VaK-gpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
